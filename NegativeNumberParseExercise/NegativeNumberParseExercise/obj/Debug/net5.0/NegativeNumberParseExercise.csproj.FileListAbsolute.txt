@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.exe
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.deps.json
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.runtimeconfig.json
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.dll
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\ref\NegativeNumberParseExercise.dll
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\bin\Debug\net5.0\NegativeNumberParseExercise.pdb
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.dll
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\ref\NegativeNumberParseExercise.dll
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.pdb
+C:\Users\Ikestius\source\repos\NegativeNumberParseExercise\NegativeNumberParseExercise\obj\Debug\net5.0\NegativeNumberParseExercise.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.exe
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.deps.json
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.runtimeconfig.json
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.dll
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\ref\InstructionSwitchCase.dll
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\bin\Debug\net5.0\InstructionSwitchCase.pdb
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.dll
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\ref\InstructionSwitchCase.dll
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.pdb
+C:\Users\Ikestius\source\repos\InstructionSwitchCase\InstructionSwitchCase\obj\Debug\net5.0\InstructionSwitchCase.genruntimeconfig.cache

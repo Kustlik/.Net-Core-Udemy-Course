@@ -1,0 +1,16 @@
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.exe
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.deps.json
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.runtimeconfig.json
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.runtimeconfig.dev.json
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.dll
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ref\ListFunctionality.dll
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\bin\Debug\net5.0\ListFunctionality.pdb
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.csprojAssemblyReference.cache
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.AssemblyInfoInputs.cache
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.AssemblyInfo.cs
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.dll
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ref\ListFunctionality.dll
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.pdb
+C:\Users\Sobala\source\repos\ListFunctionality\ListFunctionality\obj\Debug\net5.0\ListFunctionality.genruntimeconfig.cache

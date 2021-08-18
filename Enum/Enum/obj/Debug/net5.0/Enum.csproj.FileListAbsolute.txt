@@ -1,0 +1,5 @@
+C:\Users\Ikestius\source\repos\Enum\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\Enum\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\Enum\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.exe
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.deps.json
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.dll
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\bin\Debug\net5.0\RefAndOut.pdb
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.dll
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.pdb
+C:\Users\Ikestius\source\repos\RefAndOut\RefAndOut\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache

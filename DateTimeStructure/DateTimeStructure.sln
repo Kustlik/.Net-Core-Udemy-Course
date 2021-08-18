@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeStructure", "DateTimeStructure\DateTimeStructure.csproj", "{46349636-0494-40DB-B044-71CCB62C3DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46349636-0494-40DB-B044-71CCB62C3DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46349636-0494-40DB-B044-71CCB62C3DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46349636-0494-40DB-B044-71CCB62C3DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46349636-0494-40DB-B044-71CCB62C3DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1009FE-7829-496A-88AA-0924F4A2DC3E}
+	EndGlobalSection
+EndGlobal

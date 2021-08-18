@@ -1,0 +1,16 @@
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.exe
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.deps.json
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.runtimeconfig.json
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.runtimeconfig.dev.json
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.dll
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\ref\DateReservation.dll
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\bin\Debug\net5.0\DateReservation.pdb
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.csproj.AssemblyReference.cache
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.AssemblyInfoInputs.cache
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.AssemblyInfo.cs
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.csproj.CoreCompileInputs.cache
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.dll
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\ref\DateReservation.dll
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.pdb
+C:\Users\Sobala\source\repos\DateReservation\DateReservation\obj\Debug\net5.0\DateReservation.genruntimeconfig.cache

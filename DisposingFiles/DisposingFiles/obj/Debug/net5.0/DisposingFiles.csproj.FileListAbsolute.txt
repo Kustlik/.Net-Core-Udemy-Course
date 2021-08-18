@@ -1,0 +1,16 @@
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.exe
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.deps.json
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.runtimeconfig.json
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.runtimeconfig.dev.json
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.dll
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\ref\DisposingFiles.dll
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\bin\Debug\net5.0\DisposingFiles.pdb
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.csproj.AssemblyReference.cache
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.AssemblyInfoInputs.cache
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.AssemblyInfo.cs
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.dll
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\ref\DisposingFiles.dll
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.pdb
+C:\Users\Sobala\source\repos\DisposingFiles\DisposingFiles\obj\Debug\net5.0\DisposingFiles.genruntimeconfig.cache

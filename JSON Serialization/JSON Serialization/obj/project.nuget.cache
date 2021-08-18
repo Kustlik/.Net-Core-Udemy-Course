@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BUTajFNkzK3+P8QxLqAkE3MsFuDHSx9zQ8Oqq3C8syBWReHDE+bEAyv2RyMgRKJlGhS+2xVbPOr6idA67a4VEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sobala\\source\\repos\\JSON Serialization\\JSON Serialization\\JSON Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sobala\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

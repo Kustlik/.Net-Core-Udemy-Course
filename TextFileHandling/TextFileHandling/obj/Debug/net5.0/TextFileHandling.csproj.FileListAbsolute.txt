@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.exe
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.deps.json
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.runtimeconfig.json
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.dll
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\ref\TextFileHandling.dll
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\bin\Debug\net5.0\TextFileHandling.pdb
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.dll
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\ref\TextFileHandling.dll
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.pdb
+C:\Users\Ikestius\source\repos\TextFileHandling\TextFileHandling\obj\Debug\net5.0\TextFileHandling.genruntimeconfig.cache

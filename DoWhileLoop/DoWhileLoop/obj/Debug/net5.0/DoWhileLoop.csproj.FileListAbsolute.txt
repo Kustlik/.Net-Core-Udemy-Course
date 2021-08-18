@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.exe
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.deps.json
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.json
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.dll
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\ref\DoWhileLoop.dll
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.pdb
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.dll
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\ref\DoWhileLoop.dll
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.pdb
+C:\Users\Ikestius\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.exe
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.deps.json
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.runtimeconfig.json
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.dll
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\ref\InstructionIfElse.dll
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\bin\Debug\net5.0\InstructionIfElse.pdb
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.dll
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\ref\InstructionIfElse.dll
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.pdb
+C:\Users\Ikestius\source\repos\InstructionIfElse\InstructionIfElse\obj\Debug\net5.0\InstructionIfElse.genruntimeconfig.cache

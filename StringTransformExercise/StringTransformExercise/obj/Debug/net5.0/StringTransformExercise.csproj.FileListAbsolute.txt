@@ -1,0 +1,16 @@
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.exe
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.deps.json
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.runtimeconfig.json
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.runtimeconfig.dev.json
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.dll
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\ref\StringTransformExercise.dll
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\bin\Debug\net5.0\StringTransformExercise.pdb
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.csproj.AssemblyReference.cache
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.AssemblyInfoInputs.cache
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.AssemblyInfo.cs
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.dll
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\ref\StringTransformExercise.dll
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.pdb
+C:\Users\Sobala\source\repos\StringTransformExercise\StringTransformExercise\obj\Debug\net5.0\StringTransformExercise.genruntimeconfig.cache

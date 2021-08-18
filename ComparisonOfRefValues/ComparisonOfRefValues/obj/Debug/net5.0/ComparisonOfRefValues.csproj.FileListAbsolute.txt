@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.exe
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.deps.json
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.runtimeconfig.json
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.dll
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ref\ComparisonOfRefValues.dll
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\bin\Debug\net5.0\ComparisonOfRefValues.pdb
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.dll
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ref\ComparisonOfRefValues.dll
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.pdb
+C:\Users\Ikestius\source\repos\ComparisonOfRefValues\ComparisonOfRefValues\obj\Debug\net5.0\ComparisonOfRefValues.genruntimeconfig.cache

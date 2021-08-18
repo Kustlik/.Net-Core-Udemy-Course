@@ -1,0 +1,16 @@
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.exe
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.deps.json
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.runtimeconfig.json
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.runtimeconfig.dev.json
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.dll
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\ref\NullableVariables.dll
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\bin\Debug\net5.0\NullableVariables.pdb
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.csproj.AssemblyReference.cache
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.AssemblyInfoInputs.cache
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.AssemblyInfo.cs
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.dll
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\ref\NullableVariables.dll
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.pdb
+C:\Users\Ikestius\source\repos\NullableVariables\NullableVariables\obj\Debug\net5.0\NullableVariables.genruntimeconfig.cache

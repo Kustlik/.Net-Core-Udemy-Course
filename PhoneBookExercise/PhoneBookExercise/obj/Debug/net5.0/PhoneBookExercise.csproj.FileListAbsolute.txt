@@ -1,0 +1,16 @@
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.csprojAssemblyReference.cache
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.AssemblyInfoInputs.cache
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.AssemblyInfo.cs
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.exe
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.deps.json
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.runtimeconfig.json
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.runtimeconfig.dev.json
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.dll
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\ref\PhoneBookExercise.dll
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\bin\Debug\net5.0\PhoneBookExercise.pdb
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.dll
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\ref\PhoneBookExercise.dll
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.pdb
+C:\Users\Sobala\source\repos\PhoneBookExercise\PhoneBookExercise\obj\Debug\net5.0\PhoneBookExercise.genruntimeconfig.cache

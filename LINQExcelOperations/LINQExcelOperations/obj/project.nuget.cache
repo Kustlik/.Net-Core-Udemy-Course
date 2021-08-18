@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Eb6aGL59qpAjya+Tql8na6LreywIeL4+OKQRNeNvM5ZoMjEtNQs/o5Pw6t+Z9E0LHjucJ+vIgzkyZtdxtVzJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sobala\\source\\repos\\LINQExcelOperations\\LINQExcelOperations\\LINQExcelOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sobala\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
